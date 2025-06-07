@@ -1,1 +1,4 @@
+git add images/foto3.jpg
+git commit -m "Menambahkan ulang foto3"
+git push origin main
 
